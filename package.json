@@ -1,0 +1,26 @@
+{
+  "name": "kodilla_34_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desmord/Kodilla_34_4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Desmord/Kodilla_34_4/issues"
+  },
+  "homepage": "https://github.com/Desmord/Kodilla_34_4#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.4",
+    "inquirer": "^8.2.4",
+    "nodemon": "^2.0.20",
+    "ts-node": "^8.10.2"
+  }
+}
